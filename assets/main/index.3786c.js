@@ -340,23 +340,14 @@ window.__require = function e(t, a, i) {
             "use strict";
             cc._RF.push(t, "4754e8KuPZJCqklCNyKpG29", "LanguageSetJs"), t.exports = {
                 language_1: {
-                    game_name: "「召唤神龙」",
-                    game_name1: "召唤神龙",
+                    game_name: "「召唤骚人」",
+                    game_name1: "召唤骚人",
                     game_info: "点击屏幕串珠子，两个相同级别的珠子会合成更高级的珠子。",
                     txtStart: "开始",
-                    txtMore: "更多游戏",
                     txtAgain: "再玩一次",
                     txtShare1: "在游戏中 ",
                     txtShare2: "得分了，好啊!你和我一起来比赛!",
                     bgRgb: "#3698C5",
-                    gameT1: "关注我们",
-                    gameT2: "纸牌接龙",
-                    gameT3: "锦上添花",
-                    gameUrl1: "http://g.regogame.com/game/9/",
-                    gameUrl2: "http://g.regogame.com/game/3/",
-                    gameT11: "关注微信",
-                    gameT12: "关注Kakao",
-                    gameT13: "关注Line",
                     gameEndL: "游 戏 结 束",
                     gameEndL1: "稍 候 查 看 分 数"
                 },
@@ -1432,61 +1423,61 @@ window.__require = function e(t, a, i) {
                     KOR: "클릭 하여 계속"
                 },
                 name_1: {
-                    CN: "蝌蚪",
+                    CN: "蝌鸡",
                     CHT: "蝌蚪",
                     EN: "Tadpole",
                     KOR: "올챙이"
                 },
                 name_2: {
-                    CN: "青蛙",
+                    CN: "津蛙",
                     CHT: "青蛙",
                     EN: "Frog",
                     KOR: "개구리"
                 },
                 name_3: {
-                    CN: "乌龟",
+                    CN: "上进龟",
                     CHT: "烏龜",
                     EN: "Tortoise",
                     KOR: "거북이"
                 },
                 name_4: {
-                    CN: "小金鱼 ",
+                    CN: "鸡哥鱼 ",
                     CHT: "小金魚",
                     EN: "Goldfish",
                     KOR: "작은 금붕어"
                 },
                 name_5: {
-                    CN: "锦鲤鱼",
+                    CN: "鸡哥鲤",
                     CHT: "錦鯉魚",
                     EN: "Koi Fish",
                     KOR: "잉어"
                 },
                 name_6: {
-                    CN: "电鳗",
+                    CN: "阿片鳗",
                     CHT: "電鰻",
                     EN: "Eel",
                     KOR: "전기뱀장어"
                 },
                 name_7: {
-                    CN: "鲨鱼",
+                    CN: "片哥鲨",
                     CHT: "鯊魚",
                     EN: "Shark",
                     KOR: "상어."
                 },
                 name_8: {
-                    CN: "大鲸鱼",
+                    CN: "骚包鲸",
                     CHT: "大鯨魚",
                     EN: "Whale",
                     KOR: "큰 고래"
                 },
                 name_9: {
-                    CN: "蛟",
+                    CN: "骚神蛟",
                     CHT: "蛟",
                     EN: "Snake",
                     KOR: "활용단어참조"
                 },
                 name_10: {
-                    CN: "神龙",
+                    CN: "骚人",
                     CHT: "神龍",
                     EN: "Dragon",
                     KOR: "신룡"
